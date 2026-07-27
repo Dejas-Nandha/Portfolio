@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository.
 
 ## 🚀 Live Portfolio
 
-🔗 **Portfolio Website:** [https://your-lovable-url.lovable.app](https://dejas-portfolio.lovable.app/)
+🔗 **Portfolio Website:** [https://dejas-portfolio.lovable.app/]
 
 
 ---
@@ -42,9 +42,9 @@ I am an aspiring Data Analyst with skills in Excel, SQL, Python, Power BI, and D
 
 ## 📬 Connect with Me
 
-- 🌐 Portfolio: [https://your-lovable-url.lovable.app](https://dejas-portfolio.lovable.app/)
-- 💻 GitHub: [https://github.com/yourusername](https://github.com/Dejas-Nandha)
-- 💼 LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/dejaswini/)
+- 🌐 Portfolio: [https://dejas-portfolio.lovable.app/](https://dejas-portfolio.lovable.app/)
+- 💻 GitHub: [https://github.com/Dejas-Nandha/](https://github.com/Dejas-Nandha)
+- 💼 LinkedIn: [www.linkedin.com/in/dejaswini](https://www.linkedin.com/in/dejaswini/)
 
 ---
 
